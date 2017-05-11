@@ -1,0 +1,12 @@
+:: Rester appuyé sur une touche
+:: Combinaisons de touches + modulable
+:: Bonus affichage de la fenêtre en cours
+:: Bonus affichage de l'ID du process en cours
+:: Bonus affichage du time + Affichage toutes les min
+:: Bonus de la touche [AltGr] -> Produit un raccourci ALT+CTRL
+:: Aucun sleep, tout est géré avec GetAsyncKeyState & GetKeyState avec les flags
+:: Programme indétectable
+
+(PAS ENCORE)
+:: REPLICATE
+:: AT STARTUP

@@ -1,0 +1,6 @@
+
+[LEFT CLICK: X{396} Y{888}]
+[CTRL + [LEFT]]
+{{ Spider (Running) - Microsoft Visual Studio (PID: 2612) }}:
+
+[LEFT CLICK: X{639} Y{66}]

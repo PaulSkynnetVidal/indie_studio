@@ -1,0 +1,25 @@
+
+
+#####################
+# 13/11/2016 - 2h36 #
+#####################
+
+{{ cmd.exe - Spider.exe }}:
+[BACK][TAB]
+iprs
+
+#####################
+# 13/11/2016 - 2h37 #
+#####################
+
+{{ cmd.exe - Spider.exe }}:
+[ALT + CTRL + [SUPPR]]
+{{ Gestionnaire des tâches de Windows }}:
+
+[LEFT CLICK: X{529} Y{368}]
+
+[LEFT CLICK: X{529} Y{368}]
+spide
+[LEFT CLICK: X{544} Y{575}]
+
+[LEFT CLICK: X{544} Y{575}]
